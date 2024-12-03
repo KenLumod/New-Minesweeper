@@ -1,0 +1,1 @@
+This is a project for Data Structures and Algorithms (DSA). The game idea is inspired by Minesweeper, but we added twists such as robbery and a coin variant. We used Python, Pygame, and ImageIO to develop this program.
